@@ -1,0 +1,4 @@
+name: Toetsgit
+version: '${project.version}'
+main: lemmensthijmen.toetsgit.Toetsgit
+api-version: 1.18
