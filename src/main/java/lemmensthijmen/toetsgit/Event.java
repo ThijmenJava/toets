@@ -18,7 +18,7 @@ public class Event implements Listener {
         // kijken of de naam over 1 komt met die van davor!
 
         if (player.getDisplayName().equals("davor")) {
-            player.sendMessage("Vip!");
+//            player.sendMessage("Vip!");
         } else {
             player.sendMessage("je bent geen vip!");
         }
