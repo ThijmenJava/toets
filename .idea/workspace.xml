@@ -41,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642158443875</updated>
       <workItem from="1642158447253" duration="1991000" />
-      <workItem from="1642162049816" duration="711000" />
+      <workItem from="1642162049816" duration="1042000" />
     </task>
     <servers />
   </component>
@@ -59,7 +59,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="test1" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
