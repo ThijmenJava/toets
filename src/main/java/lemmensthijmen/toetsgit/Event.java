@@ -15,8 +15,6 @@ public class Event implements Listener {
     public void onPLayerJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
 
-        player.sendMessage("test");
-
         player.sendMessage("ik ben thijmen lemmens!");
 
         player.sendMessage("hoi DAARVOOR!");
