@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed407ba-0c3d-44c9-9d67-23b2eb5223b9" name="Changes" comment="" />
+    <list default="true" id="7ed407ba-0c3d-44c9-9d67-23b2eb5223b9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lemmensthijmen/toetsgit/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lemmensthijmen/toetsgit/Event.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642158443875</updated>
-      <workItem from="1642158447253" duration="555000" />
+      <workItem from="1642158447253" duration="1376000" />
     </task>
     <servers />
   </component>
@@ -45,7 +47,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/test" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

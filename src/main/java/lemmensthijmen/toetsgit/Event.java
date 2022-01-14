@@ -17,6 +17,8 @@ public class Event implements Listener {
 
         player.sendMessage("test");
 
+        player.sendMessage("ik ben thijmen lemmens!");
+
         player.sendMessage("hoi DAARVOOR!");
     }
 
