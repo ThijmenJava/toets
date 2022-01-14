@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ed407ba-0c3d-44c9-9d67-23b2eb5223b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/lemmensthijmen/toetsgit/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lemmensthijmen/toetsgit/Event.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ed407ba-0c3d-44c9-9d67-23b2eb5223b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642158443875</updated>
       <workItem from="1642158447253" duration="1991000" />
+      <workItem from="1642162049816" duration="503000" />
     </task>
     <servers />
   </component>
@@ -69,5 +68,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
