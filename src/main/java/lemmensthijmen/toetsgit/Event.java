@@ -15,8 +15,12 @@ public class Event implements Listener {
     public void onPLayerJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
 
+        // kijken of de naam over 1 komt met die van davor!
+
         if (player.getDisplayName().equals("davor")) {
             player.sendMessage("Vip!");
+        } else {
+            player.sendMessage("je bent geen vip!");
         }
     }
 }
