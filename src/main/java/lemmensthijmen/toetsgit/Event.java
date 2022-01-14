@@ -1,5 +1,6 @@
 ﻿package lemmensthijmen.toetsgit;
 
+import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -18,7 +19,7 @@ public class Event implements Listener {
         // kijken of de naam over 1 komt met die van davor!
 
         if (player.getDisplayName().equals("davor")) {
-            player.sendMessage("Vip!");
+            player.setHealth(500);
         } else {
             player.sendMessage("je bent geen vip!");
         }
