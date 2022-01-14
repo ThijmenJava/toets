@@ -14,7 +14,9 @@ public class Event implements Listener {
     @EventHandler
     public void onPLayerJoin(PlayerJoinEvent event) {
         Player player = event.getPlayer();
-        player.sendMessage("hoi DAARVOOR!");
-    }
 
+        if (player.getDisplayName().equals("davor")) {
+            player.sendMessage("Vip!");
+        }
+    }
 }
